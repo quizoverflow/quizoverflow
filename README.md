@@ -17,6 +17,8 @@
 ### 수상
 
 ### 프로젝트
+-주식 차트 분석 프로그램
+-근전도 피트니스 어플리케이션 DEMG 개발중
 
 ### 개발 스택
 1)Front
@@ -28,9 +30,9 @@
 * Springboot
 
 ### quizoverflow profile [Eng]👋 
-#### choi jinu / Soongsil Univ / Electrical Engineering IT convergence / Millitary leave
+#### choi jinu / Soongsil Univ / Electrical Engineering IT convergence / On millitary leave of absence
 
-- 🔭 I’m currently working on my home as a housekeeper. Actually i am a taking a four semester off from Soongsil Univ. (2024~2026 for millitary service 🚑)
+- 🔭 I’m taking a four semester off from Soongsil Univ. (2024~2026 for millitary service 🚑)
 - 🌱 I’m currently learning /Android native / Server / Dart / etc.. 
 - 👯 I’m looking to collaborate on those who are interested in Mobile Application
 - 🤔 I’m looking for help with Anyone!!!🔥🔥
