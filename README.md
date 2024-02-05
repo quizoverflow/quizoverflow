@@ -30,7 +30,7 @@
 ### quizoverflow profile [Eng]👋 
 #### choi jinu / Soongsil Univ / Electrical Engineering IT convergence / Millitary leave
 
-- 🔭 I’m currently working on my home as a housekeeper. Actually i am a taking a four semester off from Soongsil Univ. (2024~2026 for my millitary service 🚑)
+- 🔭 I’m currently working on my home as a housekeeper. Actually i am a taking a four semester off from Soongsil Univ. (2024~2026 for millitary service 🚑)
 - 🌱 I’m currently learning /Android native / Server / Dart / etc.. 
 - 👯 I’m looking to collaborate on those who are interested in Mobile Application
 - 🤔 I’m looking for help with Anyone!!!🔥🔥
